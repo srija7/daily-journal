@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+journal_entries.json   # Optional: ignore if you don’t want to push local data

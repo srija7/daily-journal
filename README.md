@@ -2,7 +2,7 @@
 
 A simple, private daily journaling app built with Streamlit. Pick a date, choose your mood, answer a mood-based reflection prompt, and track how you're feeling over time.
 
-![Reflective Journal screenshot](screenshot.png)
+![Reflective Journal screenshot]![alt text](image.png)
 
 ## Features
 
